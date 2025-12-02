@@ -1,4 +1,4 @@
-# 🎠 CarouselMaster AI: God Tier Carousel Generation
+# 🎠 CarouselMaster AI: Production Grade Carousel Generation
 
 > **The Enterprise-Grade, Multi-Agent Platform for Viral Instagram Carousels.**
 > *Powered by Mastra AI, Gemini 2.5 Flash, and OpenAI GPT-4o.*
@@ -7,7 +7,7 @@
 
 ## 🚀 Overview
 
-**CarouselMaster AI** is not just another content generator. It is a **God Tier** agentic workflow system designed to autonomously craft high-converting, visually stunning Instagram carousels.
+**CarouselMaster AI** is not just another content generator. It is a **Production Grade** agentic workflow system designed to autonomously craft high-converting, visually stunning Instagram carousels.
 
 It combines **advanced psychological frameworks** (hooks, storytelling) with **state-of-the-art hybrid rendering** (AI generation + programmatic design overlays) to produce content that stops the scroll.
 
@@ -52,7 +52,7 @@ graph TD
 
 ## 🛠️ Hybrid Rendering Technology
 
-We don't just ask AI to "make an image with text" (which often fails). We use a **God Tier Hybrid Approach**:
+We don't just ask AI to "make an image with text" (which often fails). We use a **Production Grade Hybrid Approach**:
 
 1.  **Visuals**: AI generates the *background* and *visual elements* with strict "negative space" prompting.
 2.  **Safe Zones**: We enforce a **100px safe zone** and clean composition to ensure text readability.
@@ -91,7 +91,7 @@ cp .env.example .env
 npm run dev
 ```
 
-### Running the God Tier Workflow
+### Running the Production Grade Workflow
 
 ```bash
 # Run the verification script
@@ -113,7 +113,7 @@ src/
 
 ---
 
-## 🌟 Why "God Tier"?
+## 🌟 Why "Production Grade"?
 
 - **Self-Healing**: If the Creative Director rejects a design, the system automatically re-plans and re-generates.
 - **Visual Consistency**: Uses reference image injection to ensure characters and styles remain consistent across slides.
